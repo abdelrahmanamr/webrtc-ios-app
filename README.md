@@ -4,7 +4,7 @@ An iOS app for WebRTC built with Swift.
 
 
 ## Setup instructions
-1. Start the signaling server (NodeJS)
+1. Start the signaling server (Node.js) using the repository at this [link](https://github.com/abdelrahmanamr/webrtc-client-and-signaling-server/tree/main).
 2. Navigate to `WebRTC-Demo-app` folder
 3. Open `WebRTC-Demo.xcworkspace`
 4. Open `Config.swift` and set the `defaultSignalingServerUrl` variable to your signaling server ip/host.
