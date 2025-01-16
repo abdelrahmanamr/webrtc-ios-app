@@ -1,6 +1,6 @@
 # WebRTC iOS App
 
-An iOS app for WebRTC built with Swift.
+An iOS application built with Swift that demonstrates WebRTC functionality for streaming frames captured by iPhone.
 
 
 ## Setup instructions
